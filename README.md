@@ -51,7 +51,7 @@ The goal is to highlight whether the world is moving toward cleaner energy and t
 ![Tableau Dashboard Preview](./visuals/Tableau Dashoard/Tableau_dashboad.png)
 
 ### Power BI Dashboard
-![Power BI Dashboard Preview](./visuals/Power BI Dashboard/Power BI_dashboard.png)
+![Power BI Dashboard Preview]_(./visuals/Power BI Dashboard/Power BI_dashboard.png)
 
 
 *(Note: Images are previews; interactive dashboards are included in `.pbix` and `.twbx` files.)*
