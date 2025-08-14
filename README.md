@@ -48,12 +48,10 @@ The goal is to highlight whether the world is moving toward cleaner energy and t
 
 ## Visuals Preview
 ### Tableau Dashboard
-![Tableau Dashboard Preview](visuals/tableau_dashboard.png)
+![Tableau Dashboard Preview](visuals/Tableau Dashoard/.png)
 
 ### Power BI Dashboard
-![Power BI Dashboard Preview](visuals/powerbi_dashboard.png)
+![Power BI Dashboard Preview](visuals/Power BI Dashboard/)
 
-### CO₂ Emissions Motion Graph (Python)
-![Motion Graph Preview](visuals/motion_graph.png)
 
 *(Note: Images are previews; interactive dashboards are included in `.pbix` and `.twbx` files.)*
