@@ -1,0 +1,4 @@
+Python
+Jupyter Notebook
+Tableau
+Power BI
