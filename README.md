@@ -48,7 +48,7 @@ The goal is to highlight whether the world is moving toward cleaner energy and t
 
 ## Visuals Preview
 ### Tableau Dashboard
-![Tableau Dashboard Preview](./visuals/Tableau_dashboad.png)
+![Tableau Dashboard Preview](./visuals/Tableau_dashboard.png)
 
 ### Power BI Dashboard
 ![Power BI Dashboard Preview](./visuals/BI_dashboard.png)
